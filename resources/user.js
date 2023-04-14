@@ -1,0 +1,1 @@
+export const user={name:"Dhruv",email:"dhruv-test@gmail.com",password:"123456",mobile:"7854785478"};

@@ -1,0 +1,1 @@
+fetch("/env.json").then((n=>n.json())).then((n=>{window.env=n}));
