@@ -19,8 +19,8 @@
       "purpose": "any"
     }
   ],
-  "name": "Animal nutrition",
-  "short_name": "AN",
+  "name": "Pet Nutrition",
+  "short_name": "Pet Nutrition",
   "orientation": "any",
   "display": "standalone",
   "start_url": ".",
