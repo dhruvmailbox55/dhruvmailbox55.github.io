@@ -1,0 +1,36 @@
+{
+   "name": "Pet Nutrition",
+   "short_name": "Pet Nutrition",
+   "description": "Animal nutrition application",
+   "background_color": "#ffffff",
+   "theme_color": "#ff7d1a",
+   "ios": true,
+   "inject": true,
+   "fingerprints": true,
+   "orientation": "any",
+   "start_url": ".",
+   "display": "standalone",
+   "icons": [
+      {
+         "src": "./logo-144x144.png",
+         "sizes": "144x144",
+         "type": "image/png",
+         "ios": true,
+         "purpose": "any"
+      },
+      {
+         "src": "./logo-192x192.png",
+         "sizes": "192x192",
+         "type": "image/png",
+         "ios": true,
+         "purpose": "any"
+      },
+      {
+         "src": "./logo-512x512.png",
+         "sizes": "512x512",
+         "type": "image/png",
+         "ios": "startup",
+         "purpose": "any"
+      }
+   ]
+}
